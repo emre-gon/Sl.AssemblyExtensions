@@ -1,4 +1,4 @@
-<h3 align="center">Sl.StringExtensions</h3>
+<h3 align="center">Sl.AseemblyExtensions</h3>
 
 <div align="center">
 
